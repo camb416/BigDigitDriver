@@ -1,0 +1,1698 @@
+Archive member included because of file (symbol)
+
+/Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+                              ./BigDigitDriver.o (HardwareSerial::begin(long))
+/Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o) (Print::write(char const*))
+/Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o) (String::operator[](unsigned int) const)
+/Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring.o)
+                              ./BigDigitDriver.o (millis)
+/Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring_analog.o)
+                              ./BigDigitDriver.o (analogRead)
+/Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring_digital.o)
+                              ./BigDigitDriver.o (pinMode)
+/Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring_shift.o)
+                              ./BigDigitDriver.o (shiftOut)
+/Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(pins_arduino.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring_digital.o) (port_to_mode_PGM)
+/Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(addsf3.o)
+                              ./BigDigitDriver.o (__subsf3)
+/Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(addsf3x.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(addsf3.o) (__addsf3x)
+/Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(cmpsf2.o)
+                              ./BigDigitDriver.o (__ltsf2)
+/Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(divsf3.o)
+                              ./BigDigitDriver.o (__divsf3)
+/Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(divsf3x.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(divsf3.o) (__divsf3x)
+/Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fixsfsi.o)
+                              ./BigDigitDriver.o (__fixsfsi)
+/Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fixunssfsi.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o) (__fixunssfsi)
+/Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(floatsisf.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o) (__floatunsisf)
+/Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_cmp.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(cmpsf2.o) (__fp_cmp)
+/Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_inf.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(addsf3x.o) (__fp_inf)
+/Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_nan.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(addsf3x.o) (__fp_nan)
+/Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_pscA.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(addsf3x.o) (__fp_pscA)
+/Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_pscB.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(addsf3x.o) (__fp_pscB)
+/Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_round.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(addsf3.o) (__fp_round)
+/Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_split3.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(addsf3x.o) (__fp_split3)
+/Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_zero.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(addsf3x.o) (__fp_zero)
+/Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(gesf2.o)
+                              ./BigDigitDriver.o (__gtsf2)
+/Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(mulsf3.o)
+                              ./BigDigitDriver.o (__mulsf3)
+/Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(mulsf3x.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(mulsf3.o) (__mulsf3x)
+/Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(pow.o)
+                              ./BigDigitDriver.o (pow)
+/Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(exp.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(pow.o) (exp)
+/Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_powser.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(exp.o) (__fp_powser)
+/Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(inverse.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(exp.o) (inverse)
+/Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(ldexp.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(exp.o) (ldexp)
+/Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(log.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(pow.o) (log)
+/Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(modf.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(exp.o) (modf)
+/Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_mpack.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(ldexp.o) (__fp_mpack)
+/usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_mulsi3.o)
+                              ./BigDigitDriver.o (__mulsi3)
+/usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_divmodhi4.o)
+                              ./BigDigitDriver.o (__divmodhi4)
+/usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_udivmodsi4.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o) (__udivmodsi4)
+/usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_divmodsi4.o)
+                              ./BigDigitDriver.o (__divmodsi4)
+/usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_exit.o)
+                              /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o (exit)
+/usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_copy_data.o)
+                              ./BigDigitDriver.o (__do_copy_data)
+/usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_clear_bss.o)
+                              ./main.o (__do_clear_bss)
+/usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_ctors.o)
+                              ./main.o (__do_global_ctors)
+/usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_udivmodhi4.o)
+                              /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_divmodhi4.o) (__udivmodhi4)
+/usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_tablejump.o)
+                              /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_ctors.o) (__tablejump__)
+/usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(malloc.o)
+                              ./main.o (malloc)
+/usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(realloc.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o) (realloc)
+/usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(atol.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o) (atol)
+/usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(isspace.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o) (isspace)
+/usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(tolower.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o) (tolower)
+/usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(toupper.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o) (toupper)
+/usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(memcpy.o)
+                              /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(realloc.o) (memcpy)
+/usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strcat.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o) (strcat)
+/usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strchr.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o) (strchr)
+/usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strcmp.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o) (strcmp)
+/usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strcpy.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o) (strcpy)
+/usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strncmp.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o) (strncmp)
+/usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strncpy.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o) (strncpy)
+/usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strrchr.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o) (strrchr)
+/usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strstr.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o) (strstr)
+/usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(itoa.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o) (itoa)
+/usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(ltoa.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o) (ltoa)
+/usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(mulsi10.o)
+                              /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(atol.o) (__mulsi_const_10)
+/usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(ultoa.o)
+                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o) (ultoa)
+/usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+                              /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(isspace.o) (__ctype_isfalse)
+/usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strrev.o)
+                              /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(itoa.o) (strrev)
+/usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_prologue.o)
+                              /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(realloc.o) (__prologue_saves__)
+/usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_epilogue.o)
+                              /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(realloc.o) (__epilogue_restores__)
+
+Allocating common symbols
+Common symbol       size              file
+
+__brkval            0x2               /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(malloc.o)
+__flp               0x2               /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(malloc.o)
+
+Discarded input sections
+
+ .stab          0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+ .stabstr       0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+ .debug_abbrev  0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(malloc.o)
+ .debug_info    0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(malloc.o)
+ .debug_line    0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(malloc.o)
+ .debug_frame   0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(malloc.o)
+ .debug_loc     0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(malloc.o)
+ .debug_pubnames
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(malloc.o)
+ .debug_aranges
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(malloc.o)
+ .debug_ranges  0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(malloc.o)
+ .debug_str     0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(malloc.o)
+ .debug_abbrev  0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(realloc.o)
+ .debug_info    0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(realloc.o)
+ .debug_line    0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(realloc.o)
+ .debug_frame   0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(realloc.o)
+ .debug_loc     0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(realloc.o)
+ .debug_pubnames
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(realloc.o)
+ .debug_aranges
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(realloc.o)
+ .debug_ranges  0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(realloc.o)
+ .debug_str     0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(realloc.o)
+ .stab          0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(atol.o)
+ .stabstr       0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(atol.o)
+ .stab          0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(isspace.o)
+ .stabstr       0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(isspace.o)
+ .stab          0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(tolower.o)
+ .stabstr       0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(tolower.o)
+ .stab          0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(toupper.o)
+ .stabstr       0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(toupper.o)
+ .stab          0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(memcpy.o)
+ .stabstr       0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(memcpy.o)
+ .stab          0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strcat.o)
+ .stabstr       0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strcat.o)
+ .stab          0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strchr.o)
+ .stabstr       0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strchr.o)
+ .stab          0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strcmp.o)
+ .stabstr       0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strcmp.o)
+ .stab          0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strcpy.o)
+ .stabstr       0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strcpy.o)
+ .stab          0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strncmp.o)
+ .stabstr       0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strncmp.o)
+ .stab          0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strncpy.o)
+ .stabstr       0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strncpy.o)
+ .stab          0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strrchr.o)
+ .stabstr       0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strrchr.o)
+ .stab          0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strstr.o)
+ .stabstr       0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strstr.o)
+ .stab          0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(itoa.o)
+ .stabstr       0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(itoa.o)
+ .stab          0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(ltoa.o)
+ .stabstr       0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(ltoa.o)
+ .stab          0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(mulsi10.o)
+ .stabstr       0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(mulsi10.o)
+ .stab          0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(ultoa.o)
+ .stabstr       0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(ultoa.o)
+ .stab          0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+ .stabstr       0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+ .stab          0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strrev.o)
+ .stabstr       0x00000000        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strrev.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+LOAD ./BigDigitDriver.o
+LOAD ./main.o
+LOAD /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a
+LOAD /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a
+LOAD /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a
+LOAD /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a
+LOAD /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a
+LOAD /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x3c6a
+ *(.vectors)
+ .vectors       0x00000000       0x68 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_fplib
+                0x00000068       0x28 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(exp.o)
+ .progmem.gcc_fplib
+                0x00000090       0x5a /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(log.o)
+ *(.progmem*)
+ .progmem.data  0x000000ea       0x5a /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(pins_arduino.o)
+                0x000000ea                port_to_mode_PGM
+                0x00000108                digital_pin_to_port_PGM
+                0x0000011c                digital_pin_to_bit_mask_PGM
+                0x000000f4                port_to_output_PGM
+                0x000000fe                port_to_input_PGM
+                0x00000130                digital_pin_to_timer_PGM
+                0x00000144                . = ALIGN (0x2)
+                0x00000144                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000144        0x0 linker stubs
+ *(.trampolines*)
+                0x00000144                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000144                __ctors_start = .
+ *(.ctors)
+ .ctors         0x00000144        0x2 ./main.o
+ .ctors         0x00000146        0x2 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+                0x00000148                __ctors_end = .
+                0x00000148                __dtors_start = .
+ *(.dtors)
+                0x00000148                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000148        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+                0x00000148                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000148        0xc /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000154       0x16 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_copy_data.o)
+                0x00000154                __do_copy_data
+ .init4         0x0000016a       0x10 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_clear_bss.o)
+                0x0000016a                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x0000017a       0x16 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_ctors.o)
+                0x0000017a                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000190        0x8 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+ *(.init9)
+ *(.text)
+ .text          0x00000198        0x4 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+                0x00000198                __vector_22
+                0x00000198                __vector_1
+                0x00000198                __vector_24
+                0x00000198                __vector_12
+                0x00000198                __bad_interrupt
+                0x00000198                __vector_6
+                0x00000198                __vector_3
+                0x00000198                __vector_23
+                0x00000198                __vector_25
+                0x00000198                __vector_11
+                0x00000198                __vector_13
+                0x00000198                __vector_17
+                0x00000198                __vector_19
+                0x00000198                __vector_7
+                0x00000198                __vector_5
+                0x00000198                __vector_4
+                0x00000198                __vector_9
+                0x00000198                __vector_2
+                0x00000198                __vector_21
+                0x00000198                __vector_15
+                0x00000198                __vector_8
+                0x00000198                __vector_14
+                0x00000198                __vector_10
+                0x00000198                __vector_20
+ .text          0x0000019c      0xc40 ./BigDigitDriver.o
+                0x00000c36                BigDigitDriver::BigDigitDriver(int, int, int, int, bool, bool)
+                0x0000027e                BigDigitDriver::initHistory()
+                0x000001e8                BigDigitDriver::clearLength()
+                0x0000076a                BigDigitDriver::measure()
+                0x0000033c                BigDigitDriver::updateDisplays()
+                0x00000296                BigDigitDriver::shiftOutSlow(unsigned char, unsigned char, unsigned char, unsigned char)
+                0x000001c6                BigDigitDriver::clearMass()
+                0x000008fa                BigDigitDriver::updateSlider()
+                0x00000710                BigDigitDriver::checkSlider()
+                0x00000a90                BigDigitDriver::BigDigitDriver(int, int, int, int, bool, bool)
+                0x000001fc                BigDigitDriver::removeLeadingZeroes()
+                0x00000938                BigDigitDriver::setAll(int)
+                0x0000019c                BigDigitDriver::pushSliderVal(int)
+                0x00000980                BigDigitDriver::startup()
+                0x00000416                BigDigitDriver::setLength(int)
+                0x0000050c                BigDigitDriver::setMass(long)
+                0x00000650                BigDigitDriver::calculateMass(unsigned char)
+                0x00000a6a                BigDigitDriver::updateButtons()
+ .text          0x00000ddc       0xd8 ./main.o
+                0x00000ea8                operator new[](unsigned int)
+                0x00000dfc                __cxa_guard_abort(long long*)
+                0x00000e2e                loop
+                0x00000ea2                operator delete(void*)
+                0x00000ddc                __cxa_pure_virtual
+                0x00000e8a                main
+                0x00000e98                operator delete[](void*)
+                0x00000de0                __cxa_guard_acquire(long long*)
+                0x00000df4                __cxa_guard_release(long long*)
+                0x00000e80                setup
+                0x00000eae                operator new(unsigned int)
+ .text          0x00000eb4        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+ .text          0x00000eb4        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+ .text          0x00000eb4        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+ .text          0x00000eb4      0x1ce /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring.o)
+                0x0000100c                init
+                0x00000f60                micros
+                0x00000fac                delay
+                0x00000eb4                __vector_16
+                0x00000f44                millis
+                0x00000ff8                delayMicroseconds
+ .text          0x00001082      0x10a /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring_analog.o)
+                0x000010cc                analogWrite
+                0x00001082                analogReference
+                0x00001088                analogRead
+ .text          0x0000118c      0x170 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring_digital.o)
+                0x0000129c                digitalRead
+                0x00001232                digitalWrite
+                0x0000118c                pinMode
+ .text          0x000012fc      0x104 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring_shift.o)
+                0x00001380                shiftIn
+                0x000012fc                shiftOut
+ .text          0x00001400        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(pins_arduino.o)
+ .text          0x00001400        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(addsf3.o)
+ .text          0x00001400        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(addsf3x.o)
+ .text          0x00001400        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(cmpsf2.o)
+ .text          0x00001400        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(divsf3.o)
+ .text          0x00001400        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(divsf3x.o)
+ .text          0x00001400        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fixsfsi.o)
+ .text          0x00001400        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fixunssfsi.o)
+ .text          0x00001400        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(floatsisf.o)
+ .text          0x00001400        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_cmp.o)
+ .text          0x00001400        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_inf.o)
+ .text          0x00001400        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_nan.o)
+ .text          0x00001400        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_pscA.o)
+ .text          0x00001400        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_pscB.o)
+ .text          0x00001400        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_round.o)
+ .text          0x00001400        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_split3.o)
+ .text          0x00001400        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_zero.o)
+ .text          0x00001400        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(gesf2.o)
+ .text          0x00001400        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(mulsf3.o)
+ .text          0x00001400        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(mulsf3x.o)
+ .text          0x00001400        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(pow.o)
+ .text          0x00001400        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(exp.o)
+ .text          0x00001400        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_powser.o)
+ .text          0x00001400        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(inverse.o)
+ .text          0x00001400        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(ldexp.o)
+ .text          0x00001400        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(log.o)
+ .text          0x00001400        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(modf.o)
+ .text          0x00001400        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_mpack.o)
+ .text          0x00001400        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_mulsi3.o)
+ .text          0x00001400        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_divmodhi4.o)
+ .text          0x00001400        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_udivmodsi4.o)
+ .text          0x00001400        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_divmodsi4.o)
+ .text          0x00001400        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_exit.o)
+ .text          0x00001400        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_copy_data.o)
+ .text          0x00001400        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_clear_bss.o)
+ .text          0x00001400        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_ctors.o)
+ .text          0x00001400        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_udivmodhi4.o)
+ .text          0x00001400        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_tablejump.o)
+ .text          0x00001400        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(malloc.o)
+ .text          0x00001400        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(realloc.o)
+ .text          0x00001400        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(atol.o)
+ .text          0x00001400        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(isspace.o)
+ .text          0x00001400        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(tolower.o)
+ .text          0x00001400        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(toupper.o)
+ .text          0x00001400        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(memcpy.o)
+ .text          0x00001400        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strcat.o)
+ .text          0x00001400        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strchr.o)
+ .text          0x00001400        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strcmp.o)
+ .text          0x00001400        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strcpy.o)
+ .text          0x00001400        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strncmp.o)
+ .text          0x00001400        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strncpy.o)
+ .text          0x00001400        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strrchr.o)
+ .text          0x00001400        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strstr.o)
+ .text          0x00001400        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(itoa.o)
+ .text          0x00001400        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(ltoa.o)
+ .text          0x00001400        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(mulsi10.o)
+ .text          0x00001400        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(ultoa.o)
+ .text          0x00001400        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+ .text          0x00001400        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strrev.o)
+ .text          0x00001400        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_prologue.o)
+ .text          0x00001400        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_epilogue.o)
+                0x00001400                . = ALIGN (0x2)
+ *(.text.*)
+ .text.__vector_18
+                0x00001400       0x62 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+                0x00001400                __vector_18
+ .text._ZN14HardwareSerialC2EP11ring_bufferPVhS3_S3_S3_S3_hhhhh
+                0x00001462       0x60 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+                0x00001462                HardwareSerial::HardwareSerial(ring_buffer*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char)
+ .text._ZN14HardwareSerialC1EP11ring_bufferPVhS3_S3_S3_S3_hhhhh
+                0x000014c2       0x60 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+                0x000014c2                HardwareSerial::HardwareSerial(ring_buffer*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char)
+ .text._ZN14HardwareSerial5beginEl
+                0x00001522       0xb2 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+                0x00001522                HardwareSerial::begin(long)
+ .text._ZN14HardwareSerial3endEv
+                0x000015d4       0x54 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+                0x000015d4                HardwareSerial::end()
+ .text._ZN14HardwareSerial9availableEv
+                0x00001628       0x22 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+                0x00001628                HardwareSerial::available()
+ .text._ZN14HardwareSerial4peekEv
+                0x0000164a       0x34 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+                0x0000164a                HardwareSerial::peek()
+ .text._ZN14HardwareSerial4readEv
+                0x0000167e       0x48 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+                0x0000167e                HardwareSerial::read()
+ .text._ZN14HardwareSerial5flushEv
+                0x000016c6       0x18 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+                0x000016c6                HardwareSerial::flush()
+ .text._ZN14HardwareSerial5writeEh
+                0x000016de       0x26 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+                0x000016de                HardwareSerial::write(unsigned char)
+ .text._GLOBAL__I_rx_buffer
+                0x00001704       0x74 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+ .text._ZN5Print5writeEPKc
+                0x00001778       0x30 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                0x00001778                Print::write(char const*)
+ .text._ZN5Print5writeEPKhj
+                0x000017a8       0x3e /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                0x000017a8                Print::write(unsigned char const*, unsigned int)
+ .text._ZN5Print5printEPKc
+                0x000017e6       0x10 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                0x000017e6                Print::print(char const*)
+ .text._ZN5Print5printERK6String
+                0x000017f6       0x54 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                0x000017f6                Print::print(String const&)
+ .text._ZN5Print11printNumberEmh
+                0x0000184a      0x130 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                0x0000184a                Print::printNumber(unsigned long, unsigned char)
+ .text._ZN5Print5printEmi
+                0x0000197a       0x1e /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                0x0000197a                Print::print(unsigned long, int)
+ .text._ZN5Print5printEji
+                0x00001998       0x22 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                0x00001998                Print::print(unsigned int, int)
+ .text._ZN5Print5printEhi
+                0x000019ba       0x24 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                0x000019ba                Print::print(unsigned char, int)
+ .text._ZN5Print5printEli
+                0x000019de       0x6c /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                0x000019de                Print::print(long, int)
+ .text._ZN5Print5printEii
+                0x00001a4a       0x26 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                0x00001a4a                Print::print(int, int)
+ .text._ZN5Print5printEci
+                0x00001a70       0x24 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                0x00001a70                Print::print(char, int)
+ .text._ZN5Print7printlnEv
+                0x00001a94       0x2e /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                0x00001a94                Print::println()
+ .text._ZN5Print7printlnEmi
+                0x00001ac2       0x16 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                0x00001ac2                Print::println(unsigned long, int)
+ .text._ZN5Print7printlnEji
+                0x00001ad8       0x32 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                0x00001ad8                Print::println(unsigned int, int)
+ .text._ZN5Print7printlnEhi
+                0x00001b0a       0x34 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                0x00001b0a                Print::println(unsigned char, int)
+ .text._ZN5Print7printlnEPKc
+                0x00001b3e       0x16 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                0x00001b3e                Print::println(char const*)
+ .text._ZN5Print7printlnERK6String
+                0x00001b54       0x16 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                0x00001b54                Print::println(String const&)
+ .text._ZN5Print7printlnEli
+                0x00001b6a       0x16 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                0x00001b6a                Print::println(long, int)
+ .text._ZN5Print7printlnEii
+                0x00001b80       0x36 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                0x00001b80                Print::println(int, int)
+ .text._ZN5Print7printlnEci
+                0x00001bb6       0x34 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                0x00001bb6                Print::println(char, int)
+ .text._ZN5Print10printFloatEdh
+                0x00001bea      0x118 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                0x00001bea                Print::printFloat(double, unsigned char)
+ .text._ZN5Print5printEdi
+                0x00001d02        0x6 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                0x00001d02                Print::print(double, int)
+ .text._ZN5Print7printlnEdi
+                0x00001d08       0x16 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                0x00001d08                Print::println(double, int)
+ .text._ZNK6String6charAtEj
+                0x00001d1e       0x10 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x00001d1e                String::charAt(unsigned int) const
+ .text._ZN6String9setCharAtEjc
+                0x00001d2e       0x22 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x00001d2e                String::setCharAt(unsigned int, char)
+ .text._ZN6StringixEj
+                0x00001d50       0x2a /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x00001d50                String::operator[](unsigned int)
+ .text._ZNK6StringixEj
+                0x00001d7a       0x10 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x00001d7a                String::operator[](unsigned int) const
+ .text._ZN6String5toIntEv
+                0x00001d8a        0xc /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x00001d8a                String::toInt()
+ .text._ZN6String11toCharArrayEPcj
+                0x00001d96       0x44 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x00001d96                String::toCharArray(char*, unsigned int)
+ .text._ZN6String8getBytesEPhj
+                0x00001dda       0x44 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x00001dda                String::getBytes(unsigned char*, unsigned int)
+ .text._ZN6StringD1Ev
+                0x00001e1e       0x20 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x00001e1e                String::~String()
+ .text._ZNK6String10startsWithERKS_j
+                0x00001e3e       0x3c /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x00001e3e                String::startsWith(String const&, unsigned int) const
+ .text._ZNK6String10startsWithERKS_
+                0x00001e7a       0x26 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x00001e7a                String::startsWith(String const&) const
+ .text._ZNK6String11lastIndexOfEcj
+                0x00001ea0       0x6a /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x00001ea0                String::lastIndexOf(char, unsigned int) const
+ .text._ZNK6String11lastIndexOfEc
+                0x00001f0a       0x10 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x00001f0a                String::lastIndexOf(char) const
+ .text._ZNK6String7indexOfERKS_j
+                0x00001f1a       0x3c /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x00001f1a                String::indexOf(String const&, unsigned int) const
+ .text._ZNK6String7indexOfERKS_
+                0x00001f56        0xa /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x00001f56                String::indexOf(String const&) const
+ .text._ZNK6String7indexOfEcj
+                0x00001f60       0x38 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x00001f60                String::indexOf(char, unsigned int) const
+ .text._ZNK6String7indexOfEc
+                0x00001f98        0xa /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x00001f98                String::indexOf(char) const
+ .text._ZNK6String6equalsERKS_
+                0x00001fa2       0x32 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x00001fa2                String::equals(String const&) const
+ .text._ZNK6String8endsWithERKS_
+                0x00001fd4       0x3a /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x00001fd4                String::endsWith(String const&) const
+ .text._ZNK6StringgeERKS_
+                0x0000200e       0x28 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x0000200e                String::operator>=(String const&) const
+ .text._ZNK6StringleERKS_
+                0x00002036       0x22 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x00002036                String::operator<=(String const&) const
+ .text._ZNK6StringgtERKS_
+                0x00002058       0x22 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x00002058                String::operator>(String const&) const
+ .text._ZNK6StringltERKS_
+                0x0000207a       0x24 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x0000207a                String::operator<(String const&) const
+ .text._ZNK6StringneERKS_
+                0x0000209e       0x30 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x0000209e                String::operator!=(String const&) const
+ .text._ZNK6StringeqERKS_
+                0x000020ce       0x34 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x000020ce                String::operator==(String const&) const
+ .text._ZNK6String9compareToERKS_
+                0x00002102       0x12 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x00002102                String::compareTo(String const&) const
+ .text._ZN6StringpLERKS_
+                0x00002114       0x70 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x00002114                String::operator+=(String const&)
+ .text._ZN6String6concatERKS_
+                0x00002184        0x6 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x00002184                String::concat(String const&)
+ .text._ZN6String9getBufferEj
+                0x0000218a       0x28 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x0000218a                String::getBuffer(unsigned int)
+ .text._ZN6StringaSERKS_
+                0x000021b2       0x60 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x000021b2                String::operator=(String const&)
+ .text._ZN6StringC1Eh
+                0x00002212       0x34 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x00002212                String::String(unsigned char)
+ .text._ZN6StringC2Eh
+                0x00002246       0x34 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x00002246                String::String(unsigned char)
+ .text._ZN6StringC1Ec
+                0x0000227a       0x34 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x0000227a                String::String(char)
+ .text._ZN6StringC2Ec
+                0x000022ae       0x34 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x000022ae                String::String(char)
+ .text._ZN6StringC1ERKS_
+                0x000022e2       0x36 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x000022e2                String::String(String const&)
+ .text._ZN6StringC2ERKS_
+                0x00002318       0x36 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x00002318                String::String(String const&)
+ .text._ZN6StringC1Emi
+                0x0000234e       0x7e /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x0000234e                String::String(unsigned long, int)
+ .text._ZN6StringC2Emi
+                0x000023cc       0x7e /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x000023cc                String::String(unsigned long, int)
+ .text._ZN6StringC1Eji
+                0x0000244a       0x7c /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x0000244a                String::String(unsigned int, int)
+ .text._ZN6StringC2Eji
+                0x000024c6       0x7c /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x000024c6                String::String(unsigned int, int)
+ .text._ZN6StringC1EPKc
+                0x00002542       0x50 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x00002542                String::String(char const*)
+ .text._ZNK6String11toUpperCaseEv
+                0x00002592       0x72 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x00002592                String::toUpperCase() const
+ .text._ZNK6String11toLowerCaseEv
+                0x00002604       0x72 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x00002604                String::toLowerCase() const
+ .text._ZNK6String16equalsIgnoreCaseERKS_
+                0x00002676       0x98 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x00002676                String::equalsIgnoreCase(String const&) const
+ .text._ZNK6String9substringEjj
+                0x0000270e       0x6e /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x0000270e                String::substring(unsigned int, unsigned int) const
+ .text._ZNK6String9substringEj
+                0x0000277c       0x18 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x0000277c                String::substring(unsigned int) const
+ .text._ZNK6String11lastIndexOfERKS_j
+                0x00002794       0xca /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x00002794                String::lastIndexOf(String const&, unsigned int) const
+ .text._ZNK6String11lastIndexOfERKS_
+                0x0000285e       0x1c /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x0000285e                String::lastIndexOf(String const&) const
+ .text._ZNK6String4trimEv
+                0x0000287a       0xd6 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x0000287a                String::trim() const
+ .text._ZN6String7replaceERKS_S1_
+                0x00002950      0x136 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x00002950                String::replace(String const&, String const&)
+ .text._ZN6String7replaceEcc
+                0x00002a86       0x7e /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x00002a86                String::replace(char, char)
+ .text._ZN6StringC2EPKc
+                0x00002b04       0x50 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x00002b04                String::String(char const*)
+ .text._ZN6StringC1Eli
+                0x00002b54       0x7a /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x00002b54                String::String(long, int)
+ .text._ZN6StringC2Eli
+                0x00002bce       0x7a /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x00002bce                String::String(long, int)
+ .text._ZN6StringC1Eii
+                0x00002c48       0x78 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x00002c48                String::String(int, int)
+ .text._ZN6StringC2Eii
+                0x00002cc0       0x78 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                0x00002cc0                String::String(int, int)
+ .text.fplib    0x00002d38        0xa /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(addsf3.o)
+                0x00002d38                __subsf3
+                0x00002d3a                __addsf3
+ .text.fplib    0x00002d42       0xca /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(addsf3x.o)
+                0x00002d5c                __addsf3x
+ .text.fplib    0x00002e0c        0x8 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(cmpsf2.o)
+                0x00002e0c                __lesf2
+                0x00002e0c                __nesf2
+                0x00002e0c                __eqsf2
+                0x00002e0c                __cmpsf2
+                0x00002e0c                __ltsf2
+ .text.fplib    0x00002e14        0x4 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(divsf3.o)
+                0x00002e14                __divsf3
+ .text.fplib    0x00002e18       0xce /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(divsf3x.o)
+                0x00002e2e                __divsf3x
+                0x00002e32                __divsf3_pse
+ .text.fplib    0x00002ee6        0xa /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fixsfsi.o)
+                0x00002ee6                __fixsfsi
+ .text.fplib    0x00002ef0       0x58 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fixunssfsi.o)
+                0x00002ef0                __fixunssfsi
+ .text.fplib    0x00002f48       0x7a /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(floatsisf.o)
+                0x00002f4c                __floatsisf
+                0x00002f48                __floatunsisf
+ .text.fplib    0x00002fc2       0x48 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_cmp.o)
+                0x00002fc2                __fp_cmp
+ .text.fplib    0x0000300a        0xc /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_inf.o)
+                0x0000300a                __fp_inf
+ .text.fplib    0x00003016        0x6 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_nan.o)
+                0x00003016                __fp_nan
+ .text.fplib    0x0000301c        0xe /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_pscA.o)
+                0x0000301c                __fp_pscA
+ .text.fplib    0x0000302a        0xe /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_pscB.o)
+                0x0000302a                __fp_pscB
+ .text.fplib    0x00003038       0x22 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_round.o)
+                0x00003038                __fp_round
+ .text.fplib    0x0000305a       0x44 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_split3.o)
+                0x0000305a                __fp_split3
+                0x0000306a                __fp_splitA
+ .text.fplib    0x0000309e       0x10 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_zero.o)
+                0x0000309e                __fp_zero
+                0x000030a0                __fp_szero
+ .text.fplib    0x000030ae        0x8 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(gesf2.o)
+                0x000030ae                __gtsf2
+                0x000030ae                __gesf2
+ .text.fplib    0x000030b6        0x4 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(mulsf3.o)
+                0x000030b6                __mulsf3
+ .text.fplib    0x000030ba       0xd2 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(mulsf3x.o)
+                0x000030d0                __mulsf3_pse
+                0x000030cc                __mulsf3x
+ .text.fplib    0x0000318c       0x9c /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(pow.o)
+                0x0000318c                pow
+ .text.fplib    0x00003228       0x62 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(exp.o)
+                0x00003232                exp
+ .text.fplib    0x0000328a       0x6e /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_powser.o)
+                0x0000328a                __fp_powser
+ .text.fplib    0x000032f8       0x12 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(inverse.o)
+                0x000032f8                inverse
+ .text.fplib    0x0000330a       0x6c /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(ldexp.o)
+                0x0000330e                ldexp
+ .text.fplib    0x00003376       0x94 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(log.o)
+                0x00003380                log
+ .text.fplib    0x0000340a       0x72 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(modf.o)
+                0x0000340a                modf
+ .text.fplib    0x0000347c       0x20 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_mpack.o)
+                0x0000347c                __fp_mpack
+ .text.libgcc   0x0000349c       0x3e /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_mulsi3.o)
+                0x0000349c                __mulsi3
+ .text.libgcc   0x000034da       0x26 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_divmodhi4.o)
+                0x000034da                __divmodhi4
+                0x000034da                _div
+ .text.libgcc   0x00003500       0x44 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_udivmodsi4.o)
+                0x00003500                __udivmodsi4
+ .text.libgcc   0x00003544       0x36 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_divmodsi4.o)
+                0x00003544                __divmodsi4
+ .text.libgcc   0x0000357a        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_exit.o)
+ .text.libgcc   0x0000357a        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000357a        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc   0x0000357a        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_ctors.o)
+ .text.libgcc   0x0000357a       0x28 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_udivmodhi4.o)
+                0x0000357a                __udivmodhi4
+ .text.libgcc   0x000035a2        0xc /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_tablejump.o)
+                0x000035a6                __tablejump__
+                0x000035a2                __tablejump2__
+ .text.avr-libc
+                0x000035ae      0x20a /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(malloc.o)
+                0x000035ae                malloc
+                0x00003708                free
+ .text.avr-libc
+                0x000037b8      0x19c /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(realloc.o)
+                0x000037b8                realloc
+ .text.avr-libc
+                0x00003954       0x4e /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(atol.o)
+                0x00003954                atol
+ .text.avr-libc
+                0x000039a2       0x10 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(isspace.o)
+                0x000039a2                isspace
+ .text.avr-libc
+                0x000039b2       0x10 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(tolower.o)
+                0x000039b2                tolower
+ .text.avr-libc
+                0x000039c2       0x10 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(toupper.o)
+                0x000039c2                toupper
+ .text.avr-libc
+                0x000039d2       0x12 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(memcpy.o)
+                0x000039d2                memcpy
+ .text.avr-libc
+                0x000039e4       0x16 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strcat.o)
+                0x000039e4                strcat
+ .text.avr-libc
+                0x000039fa       0x16 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strchr.o)
+                0x000039fa                strchr
+ .text.avr-libc
+                0x00003a10       0x12 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strcmp.o)
+                0x00003a10                strcmp
+ .text.avr-libc
+                0x00003a22        0xe /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strcpy.o)
+                0x00003a22                strcpy
+ .text.avr-libc
+                0x00003a30       0x1c /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strncmp.o)
+                0x00003a30                strncmp
+ .text.avr-libc
+                0x00003a4c       0x1e /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strncpy.o)
+                0x00003a4c                strncpy
+ .text.avr-libc
+                0x00003a6a       0x16 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strrchr.o)
+                0x00003a6a                strrchr
+ .text.avr-libc
+                0x00003a80       0x34 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strstr.o)
+                0x00003a80                strstr
+ .text.avr-libc
+                0x00003ab4       0x42 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(itoa.o)
+                0x00003ab4                itoa
+ .text.avr-libc
+                0x00003af6       0x68 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(ltoa.o)
+                0x00003af6                ltoa
+ .text.avr-libc
+                0x00003b5e       0x2a /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(mulsi10.o)
+                0x00003b5e                __mulsi_const_10
+ .text.avr-libc
+                0x00003b88       0x4a /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(ultoa.o)
+                0x00003b88                ultoa
+ .text.avr-libc
+                0x00003bd2        0x6 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+                0x00003bd6                __ctype_istrue
+                0x00003bd2                __ctype_isfalse
+ .text.avr-libc
+                0x00003bd8       0x20 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strrev.o)
+                0x00003bd8                strrev
+ .text.libgcc   0x00003bf8       0x38 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_prologue.o)
+                0x00003bf8                __prologue_saves__
+ .text.libgcc   0x00003c30       0x36 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_epilogue.o)
+                0x00003c30                __epilogue_restores__
+                0x00003c66                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00003c66        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_exit.o)
+                0x00003c66                exit
+                0x00003c66                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00003c66        0x4 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_exit.o)
+ *(.fini0)
+                0x00003c6a                _etext = .
+
+.data           0x00800100       0x4e load address 0x00003c6a
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+ .data          0x00800100       0x16 ./BigDigitDriver.o
+ .data          0x00800116        0x0 ./main.o
+ .data          0x00800116        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+ .data          0x00800116        0x2 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+ .data          0x00800118        0x1 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+ .data          0x00800119        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring.o)
+ .data          0x00800119        0x1 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring_analog.o)
+                0x00800119                analog_reference
+ .data          0x0080011a        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring_digital.o)
+ .data          0x0080011a        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring_shift.o)
+ .data          0x0080011a        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(pins_arduino.o)
+ .data          0x0080011a        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(addsf3.o)
+ .data          0x0080011a        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(addsf3x.o)
+ .data          0x0080011a        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(cmpsf2.o)
+ .data          0x0080011a        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(divsf3.o)
+ .data          0x0080011a        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(divsf3x.o)
+ .data          0x0080011a        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fixsfsi.o)
+ .data          0x0080011a        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fixunssfsi.o)
+ .data          0x0080011a        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(floatsisf.o)
+ .data          0x0080011a        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_cmp.o)
+ .data          0x0080011a        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_inf.o)
+ .data          0x0080011a        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_nan.o)
+ .data          0x0080011a        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_pscA.o)
+ .data          0x0080011a        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_pscB.o)
+ .data          0x0080011a        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_round.o)
+ .data          0x0080011a        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_split3.o)
+ .data          0x0080011a        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_zero.o)
+ .data          0x0080011a        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(gesf2.o)
+ .data          0x0080011a        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(mulsf3.o)
+ .data          0x0080011a        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(mulsf3x.o)
+ .data          0x0080011a        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(pow.o)
+ .data          0x0080011a        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(exp.o)
+ .data          0x0080011a        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_powser.o)
+ .data          0x0080011a        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(inverse.o)
+ .data          0x0080011a        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(ldexp.o)
+ .data          0x0080011a        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(log.o)
+ .data          0x0080011a        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(modf.o)
+ .data          0x0080011a        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_mpack.o)
+ .data          0x0080011a        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_mulsi3.o)
+ .data          0x0080011a        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_divmodhi4.o)
+ .data          0x0080011a        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_udivmodsi4.o)
+ .data          0x0080011a        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_divmodsi4.o)
+ .data          0x0080011a        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_exit.o)
+ .data          0x0080011a        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_copy_data.o)
+ .data          0x0080011a        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_clear_bss.o)
+ .data          0x0080011a        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_ctors.o)
+ .data          0x0080011a        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_udivmodhi4.o)
+ .data          0x0080011a        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_tablejump.o)
+ .data          0x0080011a        0x6 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(malloc.o)
+                0x0080011c                __malloc_heap_start
+                0x0080011e                __malloc_heap_end
+                0x0080011a                __malloc_margin
+ .data          0x00800120        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(realloc.o)
+ .data          0x00800120        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(atol.o)
+ .data          0x00800120        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(isspace.o)
+ .data          0x00800120        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(tolower.o)
+ .data          0x00800120        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(toupper.o)
+ .data          0x00800120        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(memcpy.o)
+ .data          0x00800120        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strcat.o)
+ .data          0x00800120        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strchr.o)
+ .data          0x00800120        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strcmp.o)
+ .data          0x00800120        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strcpy.o)
+ .data          0x00800120        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strncmp.o)
+ .data          0x00800120        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strncpy.o)
+ .data          0x00800120        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strrchr.o)
+ .data          0x00800120        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strstr.o)
+ .data          0x00800120        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(itoa.o)
+ .data          0x00800120        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(ltoa.o)
+ .data          0x00800120        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(mulsi10.o)
+ .data          0x00800120        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(ultoa.o)
+ .data          0x00800120        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+ .data          0x00800120        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strrev.o)
+ .data          0x00800120        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_prologue.o)
+ .data          0x00800120        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_epilogue.o)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata._ZTV14HardwareSerial
+                0x00800120       0x12 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+                0x00800120                vtable for HardwareSerial
+ .rodata._ZTV6Stream
+                0x00800132       0x12 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+                0x00800132                vtable for Stream
+ .rodata._ZTV5Print
+                0x00800144        0xa /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                0x00800144                vtable for Print
+ *(.gnu.linkonce.d*)
+                0x0080014e                . = ALIGN (0x2)
+                0x0080014e                _edata = .
+                0x0080014e                PROVIDE (__data_end, .)
+
+.bss            0x0080014e      0x149
+                0x0080014e                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x0080014e        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+ .bss           0x0080014e        0x0 ./BigDigitDriver.o
+ .bss           0x0080014e       0xa4 ./main.o
+                0x0080014e                bdd
+ .bss           0x008001f2        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+ .bss           0x008001f2        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+ .bss           0x008001f2        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+ .bss           0x008001f2        0x9 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring.o)
+                0x008001f2                timer0_overflow_count
+                0x008001f6                timer0_millis
+ .bss           0x008001fb        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring_analog.o)
+ .bss           0x008001fb        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring_digital.o)
+ .bss           0x008001fb        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring_shift.o)
+ .bss           0x008001fb        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(pins_arduino.o)
+ .bss           0x008001fb        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(addsf3.o)
+ .bss           0x008001fb        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(addsf3x.o)
+ .bss           0x008001fb        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(cmpsf2.o)
+ .bss           0x008001fb        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(divsf3.o)
+ .bss           0x008001fb        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(divsf3x.o)
+ .bss           0x008001fb        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fixsfsi.o)
+ .bss           0x008001fb        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fixunssfsi.o)
+ .bss           0x008001fb        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(floatsisf.o)
+ .bss           0x008001fb        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_cmp.o)
+ .bss           0x008001fb        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_inf.o)
+ .bss           0x008001fb        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_nan.o)
+ .bss           0x008001fb        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_pscA.o)
+ .bss           0x008001fb        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_pscB.o)
+ .bss           0x008001fb        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_round.o)
+ .bss           0x008001fb        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_split3.o)
+ .bss           0x008001fb        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_zero.o)
+ .bss           0x008001fb        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(gesf2.o)
+ .bss           0x008001fb        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(mulsf3.o)
+ .bss           0x008001fb        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(mulsf3x.o)
+ .bss           0x008001fb        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(pow.o)
+ .bss           0x008001fb        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(exp.o)
+ .bss           0x008001fb        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_powser.o)
+ .bss           0x008001fb        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(inverse.o)
+ .bss           0x008001fb        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(ldexp.o)
+ .bss           0x008001fb        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(log.o)
+ .bss           0x008001fb        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(modf.o)
+ .bss           0x008001fb        0x0 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_mpack.o)
+ .bss           0x008001fb        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_mulsi3.o)
+ .bss           0x008001fb        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_divmodhi4.o)
+ .bss           0x008001fb        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_udivmodsi4.o)
+ .bss           0x008001fb        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_divmodsi4.o)
+ .bss           0x008001fb        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_exit.o)
+ .bss           0x008001fb        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_copy_data.o)
+ .bss           0x008001fb        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_clear_bss.o)
+ .bss           0x008001fb        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_ctors.o)
+ .bss           0x008001fb        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_udivmodhi4.o)
+ .bss           0x008001fb        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_tablejump.o)
+ .bss           0x008001fb        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(malloc.o)
+ .bss           0x008001fb        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(realloc.o)
+ .bss           0x008001fb        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(atol.o)
+ .bss           0x008001fb        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(isspace.o)
+ .bss           0x008001fb        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(tolower.o)
+ .bss           0x008001fb        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(toupper.o)
+ .bss           0x008001fb        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(memcpy.o)
+ .bss           0x008001fb        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strcat.o)
+ .bss           0x008001fb        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strchr.o)
+ .bss           0x008001fb        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strcmp.o)
+ .bss           0x008001fb        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strcpy.o)
+ .bss           0x008001fb        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strncmp.o)
+ .bss           0x008001fb        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strncpy.o)
+ .bss           0x008001fb        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strrchr.o)
+ .bss           0x008001fb        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strstr.o)
+ .bss           0x008001fb        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(itoa.o)
+ .bss           0x008001fb        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(ltoa.o)
+ .bss           0x008001fb        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(mulsi10.o)
+ .bss           0x008001fb        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(ultoa.o)
+ .bss           0x008001fb        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+ .bss           0x008001fb        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strrev.o)
+ .bss           0x008001fb        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_prologue.o)
+ .bss           0x008001fb        0x0 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_epilogue.o)
+ *(.bss*)
+ .bss.rx_buffer
+                0x008001fb       0x84 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+                0x008001fb                rx_buffer
+ .bss.Serial    0x0080027f       0x13 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+                0x0080027f                Serial
+ .bss._ZZN6StringixEjE19dummy_writable_char
+                0x00800292        0x1 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+ *(COMMON)
+ COMMON         0x00800293        0x4 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(malloc.o)
+                0x00800293                __brkval
+                0x00800295                __flp
+                0x00800297                PROVIDE (__bss_end, .)
+                0x00003c6a                __data_load_start = LOADADDR (.data)
+                0x00003cb8                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800297        0x0
+                0x00800297                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800297                PROVIDE (__noinit_end, .)
+                0x00800297                _end = .
+                0x00800297                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(libBigDigitDriver.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges
+
+Cross Reference Table
+
+Symbol                                            File
+BigDigitDriver::BigDigitDriver(int, int, int, int, bool, bool) ./BigDigitDriver.o
+BigDigitDriver::BigDigitDriver(int, int, int, int, bool, bool) ./BigDigitDriver.o
+                                                  ./main.o
+BigDigitDriver::calculateMass(unsigned char)      ./BigDigitDriver.o
+BigDigitDriver::checkSlider()                     ./BigDigitDriver.o
+BigDigitDriver::clearLength()                     ./BigDigitDriver.o
+BigDigitDriver::clearMass()                       ./BigDigitDriver.o
+BigDigitDriver::initHistory()                     ./BigDigitDriver.o
+BigDigitDriver::measure()                         ./BigDigitDriver.o
+BigDigitDriver::pushSliderVal(int)                ./BigDigitDriver.o
+BigDigitDriver::removeLeadingZeroes()             ./BigDigitDriver.o
+BigDigitDriver::setAll(int)                       ./BigDigitDriver.o
+BigDigitDriver::setLength(int)                    ./BigDigitDriver.o
+BigDigitDriver::setMass(long)                     ./BigDigitDriver.o
+BigDigitDriver::shiftOutSlow(unsigned char, unsigned char, unsigned char, unsigned char) ./BigDigitDriver.o
+BigDigitDriver::startup()                         ./BigDigitDriver.o
+                                                  ./main.o
+BigDigitDriver::updateButtons()                   ./BigDigitDriver.o
+BigDigitDriver::updateDisplays()                  ./BigDigitDriver.o
+BigDigitDriver::updateSlider()                    ./BigDigitDriver.o
+HardwareSerial::HardwareSerial(ring_buffer*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char) /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+HardwareSerial::HardwareSerial(ring_buffer*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char) /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+HardwareSerial::available()                       /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+HardwareSerial::begin(long)                       /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+                                                  ./BigDigitDriver.o
+HardwareSerial::end()                             /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+HardwareSerial::flush()                           /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+HardwareSerial::peek()                            /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+HardwareSerial::read()                            /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+HardwareSerial::write(unsigned char)              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+Print::print(String const&)                       /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+Print::print(char const*)                         /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                                                  ./BigDigitDriver.o
+Print::print(char, int)                           /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+Print::print(double, int)                         /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+Print::print(int, int)                            /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                                                  ./BigDigitDriver.o
+Print::print(long, int)                           /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+Print::print(unsigned char, int)                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+Print::print(unsigned int, int)                   /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+Print::print(unsigned long, int)                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+Print::printFloat(double, unsigned char)          /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+Print::printNumber(unsigned long, unsigned char)  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+Print::println()                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                                                  ./BigDigitDriver.o
+Print::println(String const&)                     /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+Print::println(char const*)                       /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+Print::println(char, int)                         /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+Print::println(double, int)                       /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+Print::println(int, int)                          /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                                                  ./BigDigitDriver.o
+Print::println(long, int)                         /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+Print::println(unsigned char, int)                /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+Print::println(unsigned int, int)                 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+Print::println(unsigned long, int)                /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+Print::write(char const*)                         /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+Print::write(unsigned char const*, unsigned int)  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+Serial                                            /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+                                                  ./BigDigitDriver.o
+String::String(String const&)                     /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::String(String const&)                     /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::String(char const*)                       /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::String(char const*)                       /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::String(char)                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::String(char)                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::String(int, int)                          /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::String(int, int)                          /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::String(long, int)                         /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::String(long, int)                         /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::String(unsigned char)                     /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::String(unsigned char)                     /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::String(unsigned int, int)                 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::String(unsigned int, int)                 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::String(unsigned long, int)                /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::String(unsigned long, int)                /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::charAt(unsigned int) const                /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::compareTo(String const&) const            /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::concat(String const&)                     /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::endsWith(String const&) const             /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::equals(String const&) const               /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::equalsIgnoreCase(String const&) const     /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::getBuffer(unsigned int)                   /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::getBytes(unsigned char*, unsigned int)    /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::indexOf(String const&) const              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::indexOf(String const&, unsigned int) const /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::indexOf(char) const                       /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::indexOf(char, unsigned int) const         /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::lastIndexOf(String const&) const          /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::lastIndexOf(String const&, unsigned int) const /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::lastIndexOf(char) const                   /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::lastIndexOf(char, unsigned int) const     /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::operator!=(String const&) const           /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::operator+=(String const&)                 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::operator<(String const&) const            /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::operator<=(String const&) const           /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::operator=(String const&)                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::operator==(String const&) const           /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::operator>(String const&) const            /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::operator>=(String const&) const           /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::operator[](unsigned int)                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::operator[](unsigned int) const            /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+String::replace(String const&, String const&)     /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::replace(char, char)                       /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::setCharAt(unsigned int, char)             /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::startsWith(String const&) const           /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::startsWith(String const&, unsigned int) const /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::substring(unsigned int) const             /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::substring(unsigned int, unsigned int) const /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::toCharArray(char*, unsigned int)          /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::toInt()                                   /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::toLowerCase() const                       /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::toUpperCase() const                       /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::trim() const                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+String::~String()                                 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+__addsf3                                          /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(addsf3.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(log.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                                                  ./BigDigitDriver.o
+__addsf3x                                         /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(addsf3x.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(log.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_powser.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(addsf3.o)
+__bad_interrupt                                   /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__brkval                                          /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(realloc.o)
+                                                  /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(malloc.o)
+__bss_end                                         /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_clear_bss.o)
+__bss_start                                       /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_clear_bss.o)
+__cmpsf2                                          /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(cmpsf2.o)
+__ctors_end                                       /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_ctors.o)
+__ctors_start                                     /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_ctors.o)
+__ctype_isfalse                                   /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+                                                  /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(isspace.o)
+__ctype_istrue                                    /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+__cxa_guard_abort(long long*)                     ./main.o
+__cxa_guard_acquire(long long*)                   ./main.o
+__cxa_guard_release(long long*)                   ./main.o
+__cxa_pure_virtual                                ./main.o
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+__data_end                                        /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_copy_data.o)
+__data_load_start                                 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_copy_data.o)
+__data_start                                      /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_copy_data.o)
+__divmodhi4                                       /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_divmodhi4.o)
+                                                  ./BigDigitDriver.o
+__divmodsi4                                       /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_divmodsi4.o)
+                                                  ./BigDigitDriver.o
+__divsf3                                          /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(divsf3.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(inverse.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                                                  ./BigDigitDriver.o
+__divsf3_pse                                      /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(divsf3x.o)
+__divsf3x                                         /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(divsf3x.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(divsf3.o)
+__do_clear_bss                                    /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_clear_bss.o)
+                                                  /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+                                                  ./main.o
+__do_copy_data                                    /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_copy_data.o)
+                                                  /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring_analog.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+                                                  ./BigDigitDriver.o
+__do_global_ctors                                 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_ctors.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+                                                  ./main.o
+__epilogue_restores__                             /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_epilogue.o)
+                                                  /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(realloc.o)
+__eqsf2                                           /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(cmpsf2.o)
+__fixsfsi                                         /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fixsfsi.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                                                  ./BigDigitDriver.o
+__fixunssfsi                                      /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fixunssfsi.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fixsfsi.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+__floatsisf                                       /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(floatsisf.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(log.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                                                  ./BigDigitDriver.o
+__floatunsisf                                     /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(floatsisf.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+__flp                                             /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(realloc.o)
+                                                  /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(malloc.o)
+__fp_cmp                                          /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_cmp.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(gesf2.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(cmpsf2.o)
+__fp_inf                                          /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_inf.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(log.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(ldexp.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(exp.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(mulsf3x.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(divsf3x.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(addsf3x.o)
+__fp_mpack                                        /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_mpack.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(log.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(ldexp.o)
+__fp_nan                                          /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_nan.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(log.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(exp.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(pow.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(mulsf3x.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(divsf3x.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(addsf3x.o)
+__fp_powser                                       /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_powser.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(log.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(exp.o)
+__fp_pscA                                         /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_pscA.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(mulsf3x.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(divsf3x.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(addsf3x.o)
+__fp_pscB                                         /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_pscB.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(mulsf3x.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(divsf3x.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(addsf3x.o)
+__fp_round                                        /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_round.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(log.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(mulsf3.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(divsf3.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(addsf3.o)
+__fp_split3                                       /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_split3.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(mulsf3x.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(divsf3x.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(addsf3x.o)
+__fp_splitA                                       /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_split3.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(log.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(ldexp.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(exp.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fixunssfsi.o)
+__fp_szero                                        /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_zero.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(ldexp.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(mulsf3x.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fixsfsi.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(divsf3x.o)
+__fp_zero                                         /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_zero.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(exp.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fixunssfsi.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(addsf3x.o)
+__gesf2                                           /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(gesf2.o)
+__gtsf2                                           /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(gesf2.o)
+                                                  ./BigDigitDriver.o
+__heap_end                                        /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+                                                  /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(malloc.o)
+__heap_start                                      /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(malloc.o)
+__init                                            /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__lesf2                                           /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(cmpsf2.o)
+__ltsf2                                           /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(cmpsf2.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                                                  ./BigDigitDriver.o
+__malloc_heap_end                                 /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(realloc.o)
+__malloc_heap_start                               /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(malloc.o)
+__malloc_margin                                   /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(realloc.o)
+__mulsf3                                          /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(mulsf3.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(pow.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                                                  ./BigDigitDriver.o
+__mulsf3_pse                                      /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(mulsf3x.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(exp.o)
+__mulsf3x                                         /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(mulsf3x.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(log.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(fp_powser.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(mulsf3.o)
+__mulsi3                                          /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_mulsi3.o)
+                                                  ./BigDigitDriver.o
+__mulsi_const_10                                  /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(mulsi10.o)
+                                                  /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(atol.o)
+__nesf2                                           /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(cmpsf2.o)
+__prologue_saves__                                /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_prologue.o)
+                                                  /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(realloc.o)
+__stack                                           /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__subsf3                                          /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(addsf3.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(modf.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                                                  ./BigDigitDriver.o
+__tablejump2__                                    /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_tablejump.o)
+__tablejump__                                     /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_tablejump.o)
+                                                  /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_ctors.o)
+__udivmodhi4                                      /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_udivmodhi4.o)
+                                                  /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(itoa.o)
+                                                  /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_divmodhi4.o)
+__udivmodsi4                                      /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_udivmodsi4.o)
+                                                  /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(ultoa.o)
+                                                  /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(ltoa.o)
+                                                  /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_divmodsi4.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+__vector_1                                        /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_10                                       /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_11                                       /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_12                                       /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_13                                       /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_14                                       /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_15                                       /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_16                                       /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring.o)
+                                                  /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_17                                       /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_18                                       /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+                                                  /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_19                                       /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_2                                        /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_20                                       /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_21                                       /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_22                                       /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_23                                       /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_24                                       /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_25                                       /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_3                                        /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_4                                        /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_5                                        /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_6                                        /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_7                                        /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_8                                        /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_9                                        /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_default                                  /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vectors                                         /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+_div                                              /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_divmodhi4.o)
+_exit                                             /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_exit.o)
+analogRead                                        /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring_analog.o)
+                                                  ./BigDigitDriver.o
+analogReference                                   /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring_analog.o)
+analogWrite                                       /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring_analog.o)
+analog_reference                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring_analog.o)
+atol                                              /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(atol.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+bdd                                               ./main.o
+delay                                             /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring.o)
+                                                  ./main.o
+                                                  ./BigDigitDriver.o
+delayMicroseconds                                 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring.o)
+digitalRead                                       /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring_digital.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring_shift.o)
+                                                  ./BigDigitDriver.o
+digitalWrite                                      /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring_digital.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring_shift.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring_analog.o)
+                                                  ./main.o
+                                                  ./BigDigitDriver.o
+digital_pin_to_bit_mask_PGM                       /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(pins_arduino.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring_digital.o)
+digital_pin_to_port_PGM                           /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(pins_arduino.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring_digital.o)
+digital_pin_to_timer_PGM                          /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(pins_arduino.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring_digital.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring_analog.o)
+exit                                              /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/avr5/libgcc.a(_exit.o)
+                                                  /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+exp                                               /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(exp.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(pow.o)
+free                                              /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(realloc.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                                                  ./main.o
+init                                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring.o)
+                                                  ./main.o
+inverse                                           /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(inverse.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(exp.o)
+isspace                                           /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(isspace.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+itoa                                              /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(itoa.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+ldexp                                             /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(ldexp.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(exp.o)
+log                                               /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(log.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(pow.o)
+loop                                              ./main.o
+ltoa                                              /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(ltoa.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+main                                              ./main.o
+                                                  /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+malloc                                            /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(realloc.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+                                                  ./main.o
+memcpy                                            /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(memcpy.o)
+                                                  /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(realloc.o)
+micros                                            /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring.o)
+millis                                            /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring.o)
+                                                  ./BigDigitDriver.o
+modf                                              /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(modf.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(exp.o)
+operator delete(void*)                            ./main.o
+operator delete[](void*)                          ./main.o
+operator new(unsigned int)                        ./main.o
+operator new[](unsigned int)                      ./main.o
+pinMode                                           /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring_digital.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring_analog.o)
+                                                  ./BigDigitDriver.o
+port_to_input_PGM                                 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(pins_arduino.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring_digital.o)
+port_to_mode_PGM                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(pins_arduino.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring_digital.o)
+port_to_output_PGM                                /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(pins_arduino.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring_digital.o)
+pow                                               /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libm.a(pow.o)
+                                                  ./BigDigitDriver.o
+realloc                                           /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(realloc.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+rx_buffer                                         /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+setup                                             ./main.o
+shiftIn                                           /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring_shift.o)
+shiftOut                                          /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring_shift.o)
+                                                  ./BigDigitDriver.o
+strcat                                            /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strcat.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+strchr                                            /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strchr.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+strcmp                                            /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strcmp.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+strcpy                                            /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strcpy.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+strncmp                                           /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strncmp.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+strncpy                                           /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strncpy.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+strrchr                                           /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strrchr.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+strrev                                            /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strrev.o)
+                                                  /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(ultoa.o)
+                                                  /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(ltoa.o)
+                                                  /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(itoa.o)
+strstr                                            /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(strstr.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+timer0_millis                                     /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring.o)
+timer0_overflow_count                             /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(wiring.o)
+tolower                                           /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(tolower.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+toupper                                           /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(toupper.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+ultoa                                             /usr/local/CrossPack-AVR-20100115/lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/libc.a(ultoa.o)
+                                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(WString.o)
+vtable for HardwareSerial                         /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
+vtable for Print                                  /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(Print.o)
+vtable for Stream                                 /Users/MichaelEdwards/Documents/workspace/UnoCore/Debug/libUnoCore.a(HardwareSerial.o)
