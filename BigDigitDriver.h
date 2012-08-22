@@ -18,7 +18,7 @@
 //          : The AMNH BDD 1.5 Ciruit boards
 //****************************************************************
 
-
+#include <Arduino.h>
 #include <WProgram.h>
 
 class BigDigitDriver {
