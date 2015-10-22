@@ -1,6 +1,8 @@
 libBigDigitDriver
 ---
 
+<img width="612" height="612" src="http://c2.staticflickr.com/6/5140/5518512448_fef1c2de56_z.jpg" class="main-photo" onload="registerFirstPhoto(this)" alt="Daisy chaining the BDDs (big digit displays) | by camb416">
+
 This Arduino library is designed to support building Electronic Circuits using the Big Digit Driver module designed by Cameron Browning for use in the AMNH Exhibition Dept in 2009. 
 
 What is a BDD?
